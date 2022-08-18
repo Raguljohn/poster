@@ -1,0 +1,35 @@
+body{
+  /* background-color: rgba(36, 2, 2, 0.952); */
+  background-image: linear-gradient(to top, #21ae89, #22af9c, #35afac, #4eafb6, #67aebc);
+}
+
+body {
+  display: grid;
+  place-content: center;
+  min-height: 80vh;
+  
+}
+
+  h1{
+    color:white;
+    letter-spacing: 0.5px;
+    line-height: 0.1;
+    text-align: center;
+   
+  }
+
+  h8{
+    color:rgb(167, 159, 159);
+    font-size: 10px;
+    text-align: center;
+    line-height:3;
+  }
+
+ p{
+   color:white;
+   font-size: 10px;
+   line-height: 0.02;
+   font-style: normal;
+   text-align: center;
+   
+ }
